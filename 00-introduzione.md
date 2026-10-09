@@ -1,0 +1,35 @@
+# Commento alla legge 31 maggio 1995, n. 218 – Riforma del sistema italiano di diritto internazionale privato
+
+> **Il commento:** oggetto del commento è la legge 31 maggio 1995, n. 218, di riforma del sistema italiano di diritto internazionale privato, esaminata articolo per articolo — **80 unità redazionali** (articoli 1–74, compresi gli articoli inseriti con indici «bis», «ter», «quater» e «quinquies» e l'articolo 34 abrogato). Per ogni articolo sono riportati il testo letterale della disposizione e il commento.
+
+## Dati essenziali
+
+- **Atto:** Legge 31 maggio 1995, n. 218 – Riforma del sistema italiano di diritto internazionale privato
+- **Pubblicazione originaria:** Gazzetta Ufficiale del 3 giugno 1995 (codice redazionale 095G0256)
+- **Entrata in vigore:** 1° settembre 1995; artt. 64–71 dal 31 dicembre 1996 (art. 74)
+- **URN:** `urn:nir:stato:legge:1995-05-31;218`
+- **Base testuale:** testo vigente consolidato di Normattiva, ELI `eli/id/1995/06/03/095G0256/CONSOLIDATED/20230101`, variante `VIGENZA_2026-10-03_V0`, acquisito il 3 ottobre 2026
+- **Fonte:** Normattiva — [normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;218)
+- **Area:** diritto internazionale privato e processuale — giurisdizione italiana, norme di conflitto, riconoscimento ed esecuzione di sentenze e atti stranieri, cooperazione giudiziaria
+
+## Struttura della legge e del commento
+
+La legge è suddivisa in cinque titoli: I – Disposizioni generali (artt. 1–2); II – Giurisdizione italiana (artt. 3–12); III – Diritto applicabile (artt. 13–63, in undici capi: disposizioni generali; capacità e diritti delle persone fisiche; persone giuridiche; rapporti di famiglia; adozione; protezione degli incapaci e obblighi alimentari; successioni; diritti reali; donazioni; obbligazioni contrattuali; obbligazioni non contrattuali); IV – Efficacia di sentenze ed atti stranieri (artt. 64–71); V – Disposizioni transitorie e finali (artt. 72–74).
+
+1. **Capitolo 1** — Titoli I e II e Titolo III, Capo I: oggetto della legge e rapporto con le convenzioni internazionali; criteri generali e speciali di giurisdizione, accettazione e deroga, limiti, litispendenza straniera, volontaria giurisdizione, materia cautelare, rilievo del difetto, lex fori processuale; rinvio, accertamento e applicazione della legge straniera, ordine pubblico, norme di applicazione necessaria, ordinamenti plurilegislativi, apolidi, rifugiati e pluricittadini (artt. 1–19; 19 unità)
+2. **Capitolo 2** — Titolo III, Capi II–VI: capacità giuridica e di agire, commorienza, scomparsa e morte presunta, diritti della personalità; società ed enti; promessa di matrimonio, condizioni e forma del matrimonio, rapporti personali e patrimoniali tra coniugi, contratti di convivenza, separazione e divorzio, unione civile, filiazione, riconoscimento, responsabilità genitoriale; adozione; protezione dei minori e dei maggiori d'età, obbligazioni alimentari (artt. 20–45; 32 unità)
+3. **Capitolo 3** — Titolo III, Capi VII–XI, e Titoli IV e V: successioni e giurisdizione successoria; diritti reali, beni in transito, usucapione, beni immateriali, pubblicità; donazioni; obbligazioni contrattuali; promessa unilaterale, titoli di credito, rappresentanza volontaria, obbligazioni legali, fatto illecito, danno da prodotto; riconoscimento di sentenze e provvedimenti stranieri, attuazione ed esecuzione, rogatorie e notificazioni; disposizioni transitorie, abrogazioni, entrata in vigore (artt. 46–74; 29 unità)
+
+## Metodo
+
+- Il testo delle disposizioni è riprodotto **letteralmente** dal testo vigente pubblicato da Normattiva ed è stato estratto in modo automatico, senza riscritture manuali. Sono conservate le convenzioni redazionali della fonte: la grafia con apostrofo in luogo delle vocali accentate (ad es. «e'», «puo'»), le doppie parentesi tonde `(( ... ))` che segnalano le parti modificate o inserite, il segno «((...))» che indica parti soppresse, i rinvii numerici alle note di aggiornamento (ad es. «(7) ((8))», «((3))») e l'indicazione dell'articolo abrogato. Le doppie parentesi che nella fonte formano un paragrafo autonomo sono state unite al testo adiacente senza modificarne le parole; i paragrafi che la fonte spezza a metà frase (art. 13, comma 2, lett. c) sono stati ricongiunti. Sono conservate anche le imperfezioni materiali della fonte (ad es. «ARICOLO» nell'art. 34, «di- verse» nell'art. 59, «dall'atto» nell'art. 55, «a pronuncia» nell'art. 67, comma 3).
+- Le rubriche degli articoli sono riportate nei titoli senza le parentesi e i segni redazionali che le racchiudono nella fonte; nell'art. 35 è conservato il segno «((...))» che, nella fonte, segue la rubrica e indica la soppressione di una sua parte. L'art. 36-bis non reca rubrica. I titoli e i capi della legge sono riportati come intestazioni strutturali.
+- Le note della fonte («Nota all'art. …», «AVVERTENZA», «AGGIORNAMENTO (n)») sono riportate sotto l'articolo cui si riferiscono come «Nota redazionale (Normattiva)»; si tratta dei titoli degli atti di ratifica delle convenzioni richiamate (artt. 3, 42, 57 e 59) e delle indicazioni sulla decorrenza delle modifiche introdotte dal D.Lgs. 1° settembre 2011, n. 150 (art. 67) e dal D.Lgs. 10 ottobre 2022, n. 149 (art. 31).
+- Il commento si fonda **esclusivamente sul testo della legge e sui metadati della fonte**, senza l'uso di banche dati giuridiche commerciali. Ogni articolo è illustrato nella sua funzione, nella struttura dei commi e delle lettere, nei criteri di collegamento e negli effetti, nonché nei collegamenti con le altre disposizioni della stessa legge. Atti normativi diversi (codice civile, codice di procedura civile, convenzioni internazionali, regolamenti dell'Unione europea e altri) sono citati con i loro estremi solo in quanto richiamati dal testo o dalle note della fonte.
+- Numerose materie disciplinate dalla legge sono oggi regolate, in tutto o in parte, da fonti dell'Unione europea e da convenzioni internazionali che prevalgono sulle norme interne (art. 2). Il commento segnala tale circostanza in termini generali nei punti rilevanti, senza indicare gli estremi di atti non richiamati dalla fonte; l'individuazione della fonte prevalente nel caso concreto richiede una verifica separata.
+- **La giurisprudenza non fa parte di questa versione** e sarà aggiunta in una fase successiva, come negli altri commenti dell'autore. Non sono citate sentenze, massime né contributi dottrinali.
+- La formula di promulgazione e la formula finale della legge non sono oggetto di commento.
+
+## Licenza
+
+Apache License 2.0 — vedi [LICENSE](LICENSE). Testo del commento © 2026 Vojtěch Říha. Il testo normativo proviene da Normattiva OpenData (IPZS), distribuito con licenza CC BY 4.0; ai sensi dell'art. 5 della legge 22 aprile 1941, n. 633, i testi degli atti ufficiali dello Stato non sono oggetto di protezione del diritto d'autore. Il commento è messo a disposizione «così com'è», senza garanzia di correttezza o completezza, e non costituisce consulenza legale.
